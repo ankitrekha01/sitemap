@@ -11,10 +11,10 @@ current sitemap.
 
 ## Requirements
 - Node.js installed on your machine
-- cd sitemap
-- npm install 
 
 ## Running the script
+- cd sitemap
+- npm install 
 - node sitemap.js
 
 ## Output
