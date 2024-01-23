@@ -18,4 +18,4 @@ current sitemap.
 - node sitemap.js
 
 ## Output
-- sitemap_output.txt file that contains all the sitemaps and their associated URLs, grouped together.
+- sitemap_output.txt(sample output file) file that contains all the sitemaps and their associated URLs, grouped together.
